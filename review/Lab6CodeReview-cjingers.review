@@ -122,7 +122,7 @@
   <ReviewIssue id="HDZ142GZ">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:59:05:603 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:59:595 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:23:02:158 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>cjingers</AssignedTo>
@@ -134,12 +134,12 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ14QVD">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:59:37:225 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:16:05:552 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:22:28:645 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>cjingers</AssignedTo>
@@ -151,6 +151,6 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
 </Review>

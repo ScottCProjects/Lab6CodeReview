@@ -44,7 +44,14 @@ class ServerSolution implements AccountServer {
 			}
 		}
 	}
-	
+	/**
+	 * 
+	 * @param type Account type; either Checking or Savings
+	 * @param name The name of the account
+	 * @param balance The balance of the account
+	 * @return
+	 * @throws IllegalArgumentException
+	 */
 	private boolean newAccountFactory(String type, String name, float balance)
 		throws IllegalArgumentException {
 		
@@ -68,6 +75,11 @@ class ServerSolution implements AccountServer {
 		return true;
 	}
 
+	/**
+	 * Creates a new account with the specified settings
+	 * @param name The name of the account
+	 * @param balance The opening balance of the account
+	 */
 	public boolean newAccount(String type, String name, float balance) 
 		throws IllegalArgumentException {
 		
@@ -76,6 +88,10 @@ class ServerSolution implements AccountServer {
 		return newAccountFactory(type, name, balance);
 	}
 	
+	/**
+	 * Changes the account state to CLOSE
+	 * @param name The name of the account
+	 */
 	public boolean closeAccount(String name) {
 		Account acc = accountMap.get(name);
 		if (acc == null) {
