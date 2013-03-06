@@ -1,9 +1,17 @@
 package banking.primitive.core;
 
+/**
+ * 
+ * @author Scott
+ * and stuff
+ */
 public class Savings extends Account {
 	private static final long serialVersionUID = 111L;
 	private int numWithdraws = 0;
+	
 
+	public String getType() { return "Checking"; }
+	
 	public Savings(String name) {
 		super(name);
 	}
@@ -44,8 +52,11 @@ public class Savings extends Account {
 		return false;
 	}
 	
-	public String getType() { return "Checking"; }
-
+	/**
+	 * Banner here!
+	 *
+	 * - Scott
+	 */
 	public String toString() {
 		return "Savings: " + getName() + ": " + getBalance();
 	}

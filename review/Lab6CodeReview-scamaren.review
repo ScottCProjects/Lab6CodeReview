@@ -71,11 +71,11 @@
   <ReviewIssue id="HDZ11ZR6">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:57:28:770 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:07:52:272 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:21:52:065 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>scamaren</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
-    <File line="107">src/banking/primitive/core/ServerSolution.java</File>
+    <File line="111">src/banking/primitive/core/ServerSolution.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing method banner comment</Summary>
@@ -83,16 +83,16 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ156CH">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:59:57:281 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:07:08:393 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:18:18:435 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>scamaren</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
-    <File line="3">src/banking/primitive/core/Savings.java</File>
+    <File line="8">src/banking/primitive/core/Savings.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing class banner comment</Summary>
@@ -100,6 +100,6 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
 </Review>
