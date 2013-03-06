@@ -3,7 +3,7 @@
   <ReviewIssue id="HDZ0BVRW">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:37:10:556 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:38:14:172 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:09:22:407 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -14,16 +14,16 @@
     <Description>There is no file banner for the account file</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0DSBK">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:38:39:392 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:13:079 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:09:40:611 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>rpmille6</AssignedTo>
     <File line="3">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.minor</Severity>
@@ -31,16 +31,16 @@
     <Description>No class banner for the account class</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0HKCQ">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:35:690 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:42:45:151 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:14:07:362 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>rpmille6</AssignedTo>
     <File line="10">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.normal</Severity>
@@ -48,16 +48,16 @@
     <Description>All attributes must be private</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0L37J">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:44:20:095 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:45:04:516 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:00:135 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>rpmille6</AssignedTo>
     <File line="27">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.trivial</Severity>
@@ -65,16 +65,16 @@
     <Description>Should be alphabetical</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0OSRT">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:47:13:193 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:47:30:068 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:10:353 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>rpmille6</AssignedTo>
     <File line="72">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.minor</Severity>
@@ -82,16 +82,16 @@
     <Description>Missing method banner</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0SDIU">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:50:00:054 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:50:29:163 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:04:825 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>rpmille6</AssignedTo>
     <File line="72">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.minor</Severity>
@@ -99,16 +99,16 @@
     <Description>Should be above</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0WE1J">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:53:07:351 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:53:52:769 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:14:01:945 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>rpmille6</AssignedTo>
     <File line="10">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.minor</Severity>
@@ -116,16 +116,16 @@
     <Description>Private class member variables should be at bottom of class</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0Z4EB">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:55:14:819 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:55:40:708 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:08:50:370 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>cjingers</AssignedTo>
     <File line="1">src/banking/primitive/core/Savings.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.minor</Severity>
@@ -133,16 +133,16 @@
     <Description>Missing File Banner</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0ZXC5">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:55:52:325 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:56:22:199 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:09:58:711 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>cjingers</AssignedTo>
     <File line="4">src/banking/primitive/core/Savings.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.minor</Severity>
@@ -150,13 +150,13 @@
     <Description>Private class member variables should be last in class</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ125G8">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:57:36:152 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:57:58:885 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:28:740 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -167,13 +167,13 @@
     <Description>Missing Method Banner</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ12UCH">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:58:08:417 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:58:22:155 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:33:188 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -184,13 +184,13 @@
     <Description>Missing method banner</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ13E6Y">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:58:34:138 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:59:02:091 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:24:186 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -201,7 +201,7 @@
     <Description>Getters and setters should be before public methods</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
 </Review>

@@ -3,7 +3,7 @@
   <ReviewIssue id="HDZ0B1UX">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:31:785 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:38:47:589 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:16:505 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -14,13 +14,13 @@
     <Description>The return type for this function is allways false, so why are we returning a boolean? Consider changing to void.</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0GBGS">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:37:516 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:38:104 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:19:867 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -31,13 +31,13 @@
     <Description>There are multiple returns that result in multiple coe paths. Code should be changed to only have one return path.</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0TD34">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:50:46:144 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:51:06:666 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:14:16:315 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -48,13 +48,13 @@
     <Description></Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0U4PM">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:51:21:946 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:51:41:658 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:13:34:454 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -65,13 +65,13 @@
     <Description></Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0VWHE">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:52:44:594 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:53:28:402 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:11:43:724 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -82,16 +82,16 @@
     <Description>The variable name of this non-public variable should be prefixed with a underscore.</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0ZD4K">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:55:26:132 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:56:02:080 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:14:54:448 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>rpmille6</AssignedTo>
     <File line="12">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.label.unset</Severity>
@@ -99,13 +99,13 @@
     <Description>A non public variable needs an underscore prefix.</Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ13DF6">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:58:33:138 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:58:53:466 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:54:542 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>scamaren</AssignedTo>
@@ -116,16 +116,16 @@
     <Description></Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ142GZ">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:59:05:603 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:59:22:242 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:15:59:595 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>cjingers</AssignedTo>
     <File line="79">src/banking/primitive/core/ServerSolution.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.label.unset</Severity>
@@ -133,16 +133,16 @@
     <Description></Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ14QVD">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:59:37:225 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:00:06:306 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:16:05:552 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
-    <AssignedTo>scamaren</AssignedTo>
+    <AssignedTo>cjingers</AssignedTo>
     <File line="88">src/banking/primitive/core/ServerSolution.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.label.unset</Severity>
@@ -150,7 +150,7 @@
     <Description></Description>
     <Annotation></Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
 </Review>
