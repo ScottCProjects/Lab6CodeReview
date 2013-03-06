@@ -6,33 +6,29 @@ public abstract class Account implements java.io.Serializable {
     protected enum State {
         OPEN, CLOSED, OVERDRAWN
     };
-
-    protected float balance = 0.0F;
-    protected String name;
-    private State state;
-
+   
     protected Account(String n) {
-        name = n;
-        state = State.OPEN;
+        _name = n;
+        _state = State.OPEN;
     }
 
     protected Account(String n, float b) {
         this(n); // <-- MAKE THIS CHANGE HERE
-        balance = b;
+        _balance = b;
     }
 
     /**
      * @return name of the Account
      */
     public final String getName() {
-        return name;
+        return _name;
     }
 
     /**
      * @return balance in the Account
      */
     public final float getBalance() {
-        return balance;
+        return _balance;
     }
 
     /**
@@ -62,15 +58,23 @@ public abstract class Account implements java.io.Serializable {
     public abstract String getType();
 
     protected final State getState() {
-        return state;
+        return _state;
     }
 
     protected final void setState(State s) {
-        state = s;
+        _state = s;
     }
 
     public String toString() {
-        return "Account " + name + " has $" + balance + "and is " + getState()
+        return "Account " + _name + " has $" + _balance + "and is " + getState()
                 + "\n";
     }
+    
+    //Jupiter ID HDZ0WE1J Lab6rpmille6
+    //Jupiter ID HDZ0VWHE Lab6rpmille6
+    private float _balance = 0.0F;
+    private String _name;
+    //Jupiter ID HDZ0HKCQ  Lab6rpmille6
+    private State _state;
+
 }

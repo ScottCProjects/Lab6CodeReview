@@ -88,7 +88,7 @@
   <ReviewIssue id="HDZ0ZD4K">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:55:26:132 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:14:54:448 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:24:21:871 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cjingers</ReviewerId>
     <AssignedTo>rpmille6</AssignedTo>
@@ -100,7 +100,7 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ13DF6">
     <ReviewIssueMeta>

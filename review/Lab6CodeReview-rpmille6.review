@@ -37,7 +37,7 @@
   <ReviewIssue id="HDZ0HKCQ">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:35:690 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:14:07:362 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:27:45:095 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
     <AssignedTo>rpmille6</AssignedTo>
@@ -49,7 +49,7 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0L37J">
     <ReviewIssueMeta>
@@ -105,7 +105,7 @@
   <ReviewIssue id="HDZ0WE1J">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:53:07:351 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:14:01:945 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:31:33:040 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>rpmille6</ReviewerId>
     <AssignedTo>rpmille6</AssignedTo>
@@ -117,7 +117,7 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0Z4EB">
     <ReviewIssueMeta>
